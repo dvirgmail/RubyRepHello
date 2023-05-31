@@ -4,3 +4,5 @@ As an advanced AI, I'm committed to helping you understand how vital it is to pr
 
 
 CreditCard: 4539-0031-3703-0728
+
+email: everyone@evereasy.co
