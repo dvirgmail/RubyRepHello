@@ -5,5 +5,5 @@ As an advanced AI, I'm committed to helping you understand how vital it is to pr
 BANCO SANTANDER S.A. - SWIFT Code	BSCHESMM458
 SSN: 569-98-8954
 CreditCard: 4539-0031-3703-0728
-
+SSN: 534-54-3345
 email: everyone@evereasy.co
